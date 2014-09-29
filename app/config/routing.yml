@@ -1,0 +1,4 @@
+curso_core:
+    resource: "@CursoCoreBundle/Resources/config/routing.yml"
+    prefix:   /
+
